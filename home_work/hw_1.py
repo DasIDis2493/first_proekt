@@ -1,0 +1,1 @@
+print("Sabyr saqtaimyz")
